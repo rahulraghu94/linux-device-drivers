@@ -1,0 +1,1 @@
+cmd_/home/rahul/Linux/kernel-programming/ldd3/spinlock/spinlock.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/rahul/Linux/kernel-programming/ldd3/spinlock/spinlock.ko /home/rahul/Linux/kernel-programming/ldd3/spinlock/spinlock.o /home/rahul/Linux/kernel-programming/ldd3/spinlock/spinlock.mod.o
