@@ -1,0 +1,1000 @@
+  975  sudo env X ='(){(a) =>\' bash -c "echo date"; cat echo
+  976  cat echo
+  977  echo
+  978  clear
+  979  exit
+  980  sudo apt-add-repository ppa:octave/stable
+  981  sudo apt-get update 
+  982  sudo apt-get install octave 
+  983  sudo apt-get install liboctave-dev
+  984  sudo octave
+  985  exit
+  986  uname -a
+  987  cd
+  988  cat echo
+  989  history
+  990  clear
+  991  ls
+  992  ls Notes
+  993  cd Notes
+  994  ls 
+  995  cd Private
+  996  ls
+  997  cd .
+  998  cd ..
+  999  ls
+ 1000  cat TBOTW
+ 1001  clear
+ 1002  ls
+ 1003  cd Sonnets
+ 1004  ls
+ 1005  cat tv
+ 1006  clear
+ 1007  ls
+ 1008  touch Vidhi
+ 1009  subl Vidhi
+ 1010  sudo shutdown -P now
+ 1011  cd Notes
+ 1012  ls
+ 1013  grep -r Vidhi
+ 1014  clear
+ 1015  ls
+ 1016  cd Sonnets
+ 1017  ls
+ 1018  cat Vidhi
+ 1019  clear
+ 1020  octave
+ 1021  clear
+ 1022  nano Vidhi
+ 1023  subl Vidhi
+ 1024  gedit Vidhi
+ 1025  cd /usr/src/linux
+ 1026  cd usr
+ 1027  cd sudo su
+ 1028  sudo su
+ 1029  exit
+ 1030  mkdir ldd3
+ 1031  exit
+ 1032  uname -a
+ 1033  man uname
+ 1034  uname -srvmpio
+ 1035  uname -s
+ 1036  uname -r
+ 1037  uname -v
+ 1038  uname -m
+ 1039  uname -i
+ 1040  uname -o
+ 1041  clear
+ 1042  octave
+ 1043  clear
+ 1044  octave
+ 1045  clear
+ 1046  exit
+ 1047  dpkg -l | grep headers
+ 1048  clear
+ 1049  cd ldd3
+ 1050  ls
+ 1051  sudo apt-get install linux-headers-$(uname -r)
+ 1052  clear
+ 1053  CD LDD3
+ 1054  cd ldd3
+ 1055  ls
+ 1056  subl hello.c
+ 1057  subl makefile
+ 1058  make
+ 1059  rm make
+ 1060  rm -f make
+ 1061  ls
+ 1062  cat makefile
+ 1063  clear
+ 1064  make -f makefile
+ 1065  subl makefile
+ 1066  rm -f makefile
+ 1067  ls
+ 1068  subl Makefile
+ 1069  make
+ 1070  nano hello.c
+ 1071  ls
+ 1072  nano Makefile 
+ 1073  make
+ 1074  sudo insmod hello.ko
+ 1075  dmesg
+ 1076  clear
+ 1077  nano hello.c
+ 1078  make
+ 1079  insmod hello.c
+ 1080  insmod hello.ko
+ 1081  sudo insmod hello.ko
+ 1082  sudo rmsmod hello.ko
+ 1083  sudo rmmod hello.ko
+ 1084  dmesg
+ 1085  clear
+ 1086  sudo insmod hello.k
+ 1087  sudo insmod hello.ko
+ 1088  dmesg
+ 1089  clead
+ 1090  sudo rmmod hello.ko
+ 1091  clear
+ 1092  dmesg
+ 1093  clear
+ 1094  subl hello.c
+ 1095  dmsg
+ 1096  dmesg
+ 1097  clear
+ 1098  make
+ 1099  insmod hello.ko
+ 1100  sudo insmod hello.ko
+ 1101  demsg
+ 1102  dmesg
+ 1103  subl hello.c
+ 1104  rmmod hello.k
+ 1105  sudo rmmod hello.k
+ 1106  clear
+ 1107  make
+ 1108  sudo insmod hello.ko
+ 1109  dmesg
+ 1110  clear
+ 1111  history
+ 1112  dmesg
+ 1113  clear
+ 1114  sudo dmesg -c
+ 1115  dmesg
+ 1116  clear
+ 1117  make
+ 1118  sudo insmod hello.ko
+ 1119  sudo rmmod hello.ko
+ 1120  dmesg
+ 1121  dmesg -c
+ 1122  sudo dmesg -c
+ 1123  clear
+ 1124  subl hello.c
+ 1125  clear
+ 1126  make
+ 1127  sudo insmod hello.ko
+ 1128  clear
+ 1129  sudo rmmod hello.ko
+ 1130  clear
+ 1131  dmesg -c
+ 1132  sudo dmesg -c
+ 1133  clear
+ 1134  make
+ 1135  sudo insmod hello.ko
+ 1136  dmesg
+ 1137  sudo rmmod hello.ko
+ 1138  dmesg
+ 1139  clear
+ 1140  ls
+ 1141  cat hello.ko
+ 1142  clear
+ 1143  ls
+ 1144  cat hello.mod.c
+ 1145  claer
+ 1146  clear
+ 1147  ls
+ 1148  cat modules.order
+ 1149  clear
+ 1150  exit
+ 1151  cd ldd3
+ 1152  MAkeclean
+ 1153  Makeclean
+ 1154  make clean
+ 1155  subl Makefile
+ 1156  ls
+ 1157  cd "Test 01"
+ 1158  cd Test\ 01
+ 1159  cd Test/ 01
+ 1160  ls
+ 1161  cd Tast\ 01/
+ 1162  ls
+ 1163  cat Makefile 
+ 1164  make clean
+ 1165  ls
+ 1166  nano Makefile 
+ 1167  make clean
+ 1168  ls
+ 1169  nano Makefile 
+ 1170  make
+ 1171  ls
+ 1172  make
+ 1173  nano Makefile 
+ 1174  make 
+ 1175  make all
+ 1176  cd ..
+ 1177  mv Tast\ 01/ task1
+ 1178  ls
+ 1179  cd task1/
+ 1180  ls
+ 1181  make clean
+ 1182  make all
+ 1183  ;s
+ 1184  ls
+ 1185  nano Makefile 
+ 1186  make clean
+ 1187  ls
+ 1188  make 
+ 1189  ls
+ 1190  cat Makefile 
+ 1191  cd ..
+ 1192  cd 
+ 1193  ls
+ 1194  mkdir kernel
+ 1195  cd kernel/
+ 1196  git clone https://github.com/rahulraghu94/linux.git
+ 1197  ls
+ 1198  clear
+ 1199  ls
+ 1200  cd linux-master
+ 1201  ls
+ 1202  cd ..
+ 1203  ls
+ 1204  mv linux-master/ linux
+ 1205  ls
+ 1206  cd ls
+ 1207  cd linux/
+ 1208  git status 
+ 1209  git remote 
+ 1210  git remote add upstream https://github.com/rahulraghu94/linux.git
+ 1211  git remote add origin https://github.com/rahulraghu94/linux.git
+ 1212  git remote add origin https://github.com/torvalds/linux.git
+ 1213  git remote remove origin
+ 1214  git remote add origin https://github.com/torvalds/linux.git
+ 1215  git remote 
+ 1216  git pull origin master
+ 1217  ls
+ 1218  git status 
+ 1219  git checkout master
+ 1220  git 
+ 1221  git status
+ 1222  git remote 
+ 1223  git log
+ 1224  rm -rd .git
+ 1225  git clone --bare https://github.com/rahulraghu94/linux.git
+ 1226  cd ..
+ 1227  rm -rd linux/
+ 1228  git clone https://github.com/rahulraghu94/linux.git
+ 1229  ls
+ 1230  cd linux
+ 1231  git log
+ 1232  clear
+ 1233  ls
+ 1234  cd kernel
+ 1235  ls
+ 1236  cd linux
+ 1237  ls
+ 1238  cat Makefile
+ 1239  clear
+ 1240  subl Makefile
+ 1241  ls
+ 1242  cd kernel
+ 1243  ls
+ 1244  subl fork.c
+ 1245  cd
+ 1246  sudo apt-get install apache2
+ 1247  cd /
+ 1248  cd var/
+ 1249  sudo chmod 777 www/html/
+ 1250  ifconfig
+ 1251  rm www/html/index.html 
+ 1252  ps -a
+ 1253  man ps
+ 1254  ps -e
+ 1255  clear
+ 1256  ps -e | grep pdf
+ 1257  ps -e | grep init
+ 1258  clear
+ 1259  sudo shutdown -P now
+ 1260  ps -e | grep *chrome*
+ 1261  ps -e
+ 1262  ps -e | grep chrome
+ 1263  kill 3479
+ 1264  ps -e | grep chrome
+ 1265  touch killdat
+ 1266  ps -e | grep chrome | cut -b 0-4
+ 1267  ps -e | grep chrome | cut -b 1-4
+ 1268  ps -e | grep chrome | cut -b 1-5 > killdat
+ 1269  kill < killdat
+ 1270  clear 
+ 1271  cat killdat
+ 1272  cat killdat > kill
+ 1273  ps -e | grep chrome
+ 1274  cat killdat | kill
+ 1275  clear
+ 1276  exit
+ 1277  man ps
+ 1278  top
+ 1279  clear
+ 1280  an top
+ 1281  man top
+ 1282  clear
+ 1283  quit
+ 1284  cd Videos
+ 1285  ls
+ 1286  cd movies
+ 1287  ls
+ 1288  cd August\ Rush\[2007\]DvDrip\[Eng\]-FXG/
+ 1289  ls
+ 1290  cat August\ Rush\[2007\]DvDrip\[Eng\]-FXG.avi 
+ 1291  62;9;c62;9;clear
+ 1292  clear
+ 1293  cat August\ Rush\[Eng\]\[Subs\].srt 
+ 1294  qclear
+ 1295  clear
+ 1296  exit
+ 1297  cd
+ 1298  exit
+ 1299  cd /var/log
+ 1300  ls
+ 1301  cat messages
+ 1302  cd messages
+ 1303  cat kern.log
+ 1304  clear
+ 1305  cd
+ 1306  dmesg
+ 1307  clear
+ 1308  cd ldd3
+ 1309  ls
+ 1310  cd task1
+ 1311  ls
+ 1312  cat hello.c
+ 1313  clear
+ 1314  subl hello.c
+ 1315  ls
+ 1316  nano Makefile
+ 1317  cd ldd3/tasy1
+ 1318  cd ldd3/task1
+ 1319  ls
+ 1320  cat Makefile
+ 1321  clear
+ 1322  cd
+ 1323  ls
+ 1324  rm kill killdat
+ 1325  ls
+ 1326  cat ttmm
+ 1327  clear
+ 1328  rm ttmmm
+ 1329  rm ttmm
+ 1330  ls
+ 1331  cat t.html
+ 1332  clear
+ 1333  rm t.html
+ 1334  ls
+ 1335  rm -r sam
+ 1336  clear
+ 1337  cd sam
+ 1338  ls
+ 1339  cd
+ 1340  sudo rm -f sam
+ 1341  rm -r sam
+ 1342  sudo rm -r sam
+ 1343  ls
+ 1344  cd kernel
+ 1345  ls
+ 1346  cd linux
+ 1347  ls
+ 1348  cd Documentation/
+ 1349  ls
+ 1350  gedit CodingStyle 
+ 1351  clear
+ 1352  ls | grep build
+ 1353  gedit kbuild/
+ 1354  cd kbuild/
+ 1355  ls
+ 1356  gedit kbuild.txt 
+ 1357  cd
+ 1358  cd ldd3/task1
+ 1359  ls
+ 1360  nano Makefile
+ 1361  cd ldd3/tast1
+ 1362  cd ldd3/task1
+ 1363  ls
+ 1364  nano Makefile
+ 1365  subl Makefile
+ 1366  make
+ 1367  clear
+ 1368  subl Makefile
+ 1369  echo $KERNELRELEASE
+ 1370  clear
+ 1371  echo ${KERNELRELEASE}
+ 1372  clear
+ 1373  PWD := $(shell pwd)
+ 1374  cd usr
+ 1375  cd
+ 1376  cd usr
+ 1377  clear
+ 1378  cd ldd3/test1
+ 1379  cd ldd3/task1
+ 1380  subl Makefile
+ 1381  make
+ 1382  subl Makefile
+ 1383  pwd
+ 1384  pwd shell
+ 1385  pwd $SHELL
+ 1386  cd
+ 1387  pwd
+ 1388  pwd shell
+ 1389  clear
+ 1390  $PATH
+ 1391  clear
+ 1392  mkdir ldd3/task11
+ 1393  cd ldd3/task11
+ 1394  ls
+ 1395  subl Makefile
+ 1396  make
+ 1397  clear
+ 1398  subl hello.c
+ 1399  make
+ 1400  sudo insmod hello.ko
+ 1401  dmesg
+ 1402  clear
+ 1403  sudo rmmod hello.ko
+ 1404  dmesg
+ 1405  clear
+ 1406  ls -d /lib/modules/$(uname -r)/build
+ 1407  tail -f /var/log/messages
+ 1408  clear
+ 1409  cd ldd3/task11
+ 1410  subl Makefile 
+ 1411  cd ..
+ 1412  cd task1
+ 1413  cat Makefile
+ 1414  cd task11
+ 1415  subl Makefile
+ 1416  cd ..
+ 1417  cd task11
+ 1418  ls
+ 1419  makeclean
+ 1420  clear
+ 1421  ls
+ 1422  rm hello.mod.c hello.o modules.order hello.mod.o Module.symvers
+ 1423  ls
+ 1424  rm hello.ko
+ 1425  make
+ 1426  ls
+ 1427  clear
+ 1428  cat Makefile 
+ 1429  subl Makefile 
+ 1430  rm hello.mod.c hello.o modules.order hello.mod.o Module.symvers
+ 1431  ls
+ 1432  rm hello.ko
+ 1433  clear
+ 1434  make
+ 1435  cat Makefile 
+ 1436  cd ..
+ 1437  cd task1
+ 1438  cat Makefile
+ 1439  cd ..
+ 1440  cd task11
+ 1441  subl Makefile 
+ 1442  rm hello.mod.c hello.o modules.order hello.mod.o Module.symvers
+ 1443  ls
+ 1444  rm hello.ko
+ 1445  ls
+ 1446  make
+ 1447  clear
+ 1448  ls
+ 1449  make clean
+ 1450  subl Makefile 
+ 1451  l
+ 1452  rm hello.mod.c hello.o modules.order hello.mod.o Module.symvers hello.ko
+ 1453  ls
+ 1454  make
+ 1455  ls
+ 1456  make clean
+ 1457  clear
+ 1458  rm hello.mod.c hello.o modules.order hello.mod.o Module.symvers hello.ko
+ 1459  ls
+ 1460  clear
+ 1461  subl Makefile 
+ 1462  ls
+ 1463  make
+ 1464  ls
+ 1465  make clean
+ 1466  ls
+ 1467  rm modules.order
+ 1468  rm Module.symvers 
+ 1469  ls
+ 1470  make
+ 1471  rm hello.mod.c hello.o modules.order hello.mod.o Module.symvers
+ 1472  ls
+ 1473  sudo insmod hello.ko
+ 1474  dmesg
+ 1475  rmmod hello.ko
+ 1476  sudo rmmod hello.ko
+ 1477  dmesg
+ 1478  clear
+ 1479  ls
+ 1480  rm hello.ko
+ 1481  ls
+ 1482  subl Makefile 
+ 1483  make
+ 1484  ls
+ 1485  tail Makefile 
+ 1486  subl Makefile 
+ 1487  ls
+ 1488  make clean
+ 1489  ls
+ 1490  subl Makefile 
+ 1491  ls
+ 1492  make clean
+ 1493  ls
+ 1494  subl Makefile 
+ 1495  ls
+ 1496  make clean
+ 1497  ls
+ 1498  clear
+ 1499  make
+ 1500  ls
+ 1501  make clean
+ 1502  ls
+ 1503  rm hello.ko
+ 1504  clear
+ 1505  make
+ 1506  ls
+ 1507  subl Makefile 
+ 1508  make clean
+ 1509  ls
+ 1510  clear
+ 1511  make
+ 1512  ls
+ 1513  make clean
+ 1514  ls
+ 1515  cat Makefile 
+ 1516  subl Makefile 
+ 1517  clear
+ 1518  ls
+ 1519  rm hello.ko
+ 1520  ls
+ 1521  make
+ 1522  subl Makefile 
+ 1523  make
+ 1524  clear
+ 1525  subl Makefile 
+ 1526  ls
+ 1527  make
+ 1528  clear
+ 1529  cd ..
+ 1530  cat Ma
+ 1531  cd task1
+ 1532  cat Makefile
+ 1533  cd ..
+ 1534  cd task11
+ 1535  subl Makefile 
+ 1536  clear
+ 1537  cd ..
+ 1538  cd task22
+ 1539  cd task11
+ 1540  subl Makefile 
+ 1541  make
+ 1542  ls
+ 1543  make clean
+ 1544  ls
+ 1545  clear
+ 1546  ls
+ 1547  subl Makefile 
+ 1548  ls
+ 1549  make clean
+ 1550  subl Makefile 
+ 1551  make clean
+ 1552  clean
+ 1553  clear
+ 1554  dmesg -c
+ 1555  sudo dmesg -c
+ 1556  clear
+ 1557  ls
+ 1558  make
+ 1559  sudo insmod hello.ko
+ 1560  dmesg
+ 1561  sudo rmmod hello.ko
+ 1562  dmesg
+ 1563  make clean
+ 1564  ls
+ 1565  clear
+ 1566  exit
+ 1567  octave
+ 1568  clear
+ 1569  ls
+ 1570  cd Cfiles
+ 1571  ls
+ 1572  cd LCTHW
+ 1573  mkdir LCTHW
+ 1574  cd LCTHW/
+ 1575  ls
+ 1576  clear
+ 1577  subl 1.c
+ 1578  make 1
+ 1579  ./1
+ 1580  clear
+ 1581  rm 1
+ 1582  CFLAGS = '-Wall" make 1
+ 1583  CFLAGS = "-Wall" make 1
+ 1584  clear
+ 1585  CFLAGS="-Wall" make 1
+ 1586  ls
+ 1587  subl 1
+ 1588  octave
+ 1589  clear
+ 1590  CFLAGS="-Wall" make 1
+ 1591  ./1
+ 1592  subl 1
+ 1593  ./1
+ 1594  ls
+ 1595  rm1
+ 1596  rm 1
+ 1597  CFLAGS="-Wall" make 1
+ 1598  ./1
+ 1599  clear
+ 1600  man 3 puts
+ 1601  man make
+ 1602  ls
+ 1603  rm 1
+ 1604  subl Makefile
+ 1605  make
+ 1606  ls
+ 1607  subl Makefile
+ 1608  make
+ 1609  clear
+ 1610  cat Makefile 
+ 1611  make
+ 1612  clear
+ 1613  subl Makefile
+ 1614  make
+ 1615  subl Makefile
+ 1616  make
+ 1617  make 1
+ 1618  make 1.c
+ 1619  clea
+ 1620  clear
+ 1621  ls
+ 1622  make
+ 1623  nano Makefile 
+ 1624  make
+ 1625  ./1
+ 1626  nano Makefile 
+ 1627  la
+ 1628  make 1.c
+ 1629  make ex1
+ 1630  make clean
+ 1631  make 1.c
+ 1632  make 1
+ 1633  cat Makefile 
+ 1634  ./1 
+ 1635  make
+ 1636  make all
+ 1637  make 1
+ 1638  ./1 
+ 1639  ls
+ 1640  cd kernel
+ 1641  ls
+ 1642  cd linux
+ 1643  ls
+ 1644  cd ..
+ 1645  du linux
+ 1646  clear
+ 1647  ls
+ 1648  cd linux
+ 1649  ls
+ 1650  subl Makefile 
+ 1651  cd
+ 1652  exit
+ 1653  exit
+ 1654  sudo reboot
+ 1655  cd kernel
+ 1656  cd linux
+ 1657  git checkout COMMIT
+ 1658  clear
+ 1659  cd $HOME
+ 1660  cd
+ 1661  exit
+ 1662  cd kernel/linux
+ 1663  cp /boot/config-`uname -r` .config
+ 1664  make oldconfig
+ 1665  ls -l
+ 1666  ld -s
+ 1667  ld -a
+ 1668  ls -a
+ 1669  rm .config 
+ 1670  ls /proc/
+ 1671  cp /boot/config-`uname -r` .config
+ 1672  make oldconfig
+ 1673  gedit .config
+ 1674  git pull upstream master
+ 1675  git remote show upstream
+ 1676  git remo
+ 1677  git remote show origin
+ 1678  git remote add upstream https://github.com/torvalds/linux.git
+ 1679  git remote pull upstream master
+ 1680  git pull upstream master
+ 1681  make oldconfig
+ 1682  make -j `getconf _NPROCESSORS_ONLN` deb-pkg LOCALVERSION=-custom
+ 1683  cd ..
+ 1684  ls
+ 1685  sudo dpkg -i linux-image-2.6.24-rc5-custom_2.6.24-rc5-custom-10.00.Custom_i386.deb
+ 1686  sudo dpkg -i linux-image-3.17.0-rc7-custom-00086-gee042ec_3.17.0-rc7-custom-00086-gee042ec-1_amd64.deb
+ 1687  clear
+ 1688  ls
+ 1689  linux-image-3.17.0-rc7-custom-00086-gee042ec_3.17.0-rc7-custom-00086-gee042ec-1_amd64.deb
+ 1690  sudo dpkg -i linux-headers-3.17.0-rc7-custom-00086-gee042ec_3.17.0-rc7-custom-00086-gee042ec-1_amd64.deb
+ 1691  sudo reboot
+ 1692  gdm
+ 1693  sudo gdm
+ 1694  uname -a
+ 1695  $HOME/.config
+ 1696  gedit $HOME/.config
+ 1697  cd $HOME/.config
+ 1698  ls
+ 1699  LS
+ 1700  ls
+ 1701  cd
+ 1702  ls
+ 1703  ls kernel/linux
+ 1704  cat /boot/config-`uname -r`
+ 1705  gedit /boot/config-`uname -r`
+ 1706  clear
+ 1707  cd ldd3/task/ 2
+ 1708  cd ldd3/task\ 2
+ 1709  gedit config file
+ 1710  gedit /boot/config-`uname -r`
+ 1711  gedit config file
+ 1712  ls
+ 1713  clear
+ 1714  exit
+ 1715  ping www.google.com
+ 1716  cd kernel/linux
+ 1717  ls
+ 1718  cd Documentation/
+ 1719  ls
+ 1720  subl SubmittingPatches 
+ 1721  cd ..
+ 1722  ls
+ 1723  subl Makefile 
+ 1724  uname -r
+ 1725  exit
+ 1726  git config --list
+ 1727  clear
+ 1728  cd kernel/linux
+ 1729  ls
+ 1730  cd init
+ 1731  ls
+ 1732  subl main.c
+ 1733  cd kernel/linux
+ 1734  subl Makefile 
+ 1735  uname -a
+ 1736  uname -r
+ 1737  clear
+ 1738  ls
+ 1739  cd Cfiles
+ 1740  ls
+ 1741  cd SysSoft/
+ 1742  ls
+ 1743  git init
+ 1744  git add
+ 1745  git add -a
+ 1746  git add -A
+ 1747  git commit -m "This is only a test and can later be deleted"
+ 1748  git status
+ 1749  clear
+ 1750  ls
+ 1751  cat hist
+ 1752  subl hist
+ 1753  history > hist
+ 1754  clear
+ 1755  head hist 5
+ 1756  clear
+ 1757  diff a/hist b/hist
+ 1758  diff --git a/hist b/hist
+ 1759  git diff
+ 1760  clear
+ 1761  git add hist
+ 1762  git commit -m "UpdTE ON HISTORY OF CMD LINE UPDATED"
+ 1763  CD
+ 1764  cd
+ 1765  cd ldd3
+ 1766  cd task2
+ 1767  cd task1
+ 1768  cd task11
+ 1769  ls
+ 1770  cat hello.c
+ 1771  cd kernel/linux
+ 1772  git checkout COMMIT
+ 1773  git checkout commit
+ 1774  git pull
+ 1775  cd
+ 1776  cd kernel
+ 1777  cd
+ 1778  mkdir kernel-clean
+ 1779  cd kernel-clean/
+ 1780  exit
+ 1781  cd Cfiles
+ 1782  ls
+ 1783  cd LCTHW/
+ 1784  ls
+ 1785  subl 2.c
+ 1786  make 2
+ 1787  ./2
+ 1788  subl 2.c
+ 1789  make 2
+ 1790  ./2
+ 1791  clear
+ 1792  ls
+ 1793  subl MA
+ 1794  rm MA
+ 1795  ls
+ 1796  subl Makefile 
+ 1797  make clean
+ 1798  ls
+ 1799  clear
+ 1800  cd
+ 1801  curl -O http://valgrind.org/downloads/valgrind-3.6.1.tar.bz2
+ 1802  valgrind
+ 1803  sudo apt-get install curl
+ 1804  curl -O http://valgrind.org/downloads/valgrind-3.6.1.tar.bz2
+ 1805  md5sum valgrind-3.6.1.tar.bz2
+ 1806  tar -xjvf valgrind-3.6.1.tar.bz2
+ 1807  cd valgrind-3.6.1
+ 1808  make
+ 1809  sudo make install
+ 1810  clear
+ 1811  ls
+ 1812  make
+ 1813  make Makefile.*
+ 1814  ./configure
+ 1815  make
+ 1816  clear
+ 1817  cd
+ 1818  rm valgrind-3.6.1
+ 1819  rm -f valgrind-3.6.1
+ 1820  rm -r valgrind-3.6.1
+ 1821  clear
+ 1822  cd Cfile
+ 1823  cd Cfiles
+ 1824  cd LCTHW/
+ 1825  ls
+ 1826  subl 3.c
+ 1827  make 3
+ 1828  subl 3.c
+ 1829  make 3
+ 1830  ./3 this is a bunch of arguents
+ 1831  clear
+ 1832  cat 1.c
+ 1833  subl 1.c
+ 1834  make 1
+ 1835  ./1
+ 1836  subl 1.c
+ 1837  make 1
+ 1838  subl 1.c
+ 1839  make 1
+ 1840  ./1
+ 1841  clear
+ 1842  subl 1.c
+ 1843  make 1
+ 1844  subl 1.c
+ 1845  make 1
+ 1846  ./1
+ 1847  clear
+ 1848  cd Cfiles/LCTHW/
+ 1849  ls
+ 1850  make clean
+ 1851  ls
+ 1852  make 3
+ 1853  ./3
+ 1854  make clean
+ 1855  ls
+ 1856  clear
+ 1857  subl Makefile 
+ 1858  mae clean
+ 1859  make clean
+ 1860  clear
+ 1861  subl Makefile 
+ 1862  ls
+ 1863  mkdir test
+ 1864  cd test
+ 1865  touch 1 2 3 4 5 6
+ 1866  ls
+ 1867  clear
+ 1868  grep . > rm -f
+ 1869  ls
+ 1870  rm rm
+ 1871  ls
+ 1872  clear
+ 1873  cat grep .
+ 1874  cat | grep .
+ 1875  grep .
+ 1876  grep [0-9]
+ 1877  ls > grep [0-9]
+ 1878  ls > grep .
+ 1879  clear
+ 1880  ls > grep 1
+ 1881  history > grap touch
+ 1882  clear
+ 1883  history | grep touch
+ 1884  clear
+ 1885  ls | grep 1
+ 1886  ls | grep [0-9]
+ 1887  clear
+ 1888  sudo shutdown -P now
+ 1889  exit
+ 1890  cd Notes/
+ 1891  ls
+ 1892  rm -f Kovai/
+ 1893  rm -r Kovai/
+ 1894  ls
+ 1895  cd P
+ 1896  cd Private/
+ 1897  ls
+ 1898  clear
+ 1899  emacs note1
+ 1900  cd Notes/Private/
+ 1901  ls
+ 1902  emacs note1
+ 1903  ps -e
+ 1904  ps -e | grep emac
+ 1905  kill 2648
+ 1906  clear
+ 1907  emacs
+ 1908  ps -e | grep sub
+ 1909  ps -e | grep sub | cut -b 1-5
+ 1910  ps -e | grep sub | cut -b 1-5 > kill
+ 1911  ps -e | grep sub
+ 1912  ps -e | grep sub | cut -b 1-5 > test
+ 1913  kill < test
+ 1914  kill -l < test
+ 1915  clear
+ 1916  ps -e | grep sub
+ 1917  kill 2794
+ 1918  clear
+ 1919  sudo shutdown -P now
+ 1920  cd kernel-clean/
+ 1921  git clone https://github.com/torvalds/linux
+ 1922  history
+ 1923  ls
+ 1924  ls kernel-clean/
+ 1925  ls
+ 1926  cd kernel-clean/
+ 1927  clear
+ 1928  ls
+ 1929  git checkout commit
+ 1930  git checkout master
+ 1931  git checkout -t master
+ 1932  git checkout -b master
+ 1933  get pull
+ 1934  git pull
+ 1935  exit
+ 1936  exi
+ 1937  exit
+ 1938  clear
+ 1939  man md5
+ 1940  ls
+ 1941  md5 Go
+ 1942  man md5
+ 1943  man -a md5
+ 1944  md5 -c Go
+ 1945  clear
+ 1946  sudo shutdown -P now
+ 1947  ls
+ 1948  cd kernel-clean/
+ 1949  ls
+ 1950  git checkout v$version
+ 1951  git checkout $version
+ 1952  clear
+ 1953  git pull
+ 1954  cd linux
+ 1955  git status
+ 1956  git log
+ 1957  git reset --hard
+ 1958  git remote
+ 1959  git remote show
+ 1960  git remote show origin 
+ 1961  echo "Hello im a chutiya" >> Makefile 
+ 1962  git diff
+ 1963  git commit -as
+ 1964  git format-patch -1
+ 1965  gedit 0001-sldfjsdf.patch 
+ 1966  git log
+ 1967  git reset --hard 35a9ad8a
+ 1968  git log
+ 1969  ls 000*
+ 1970  rm 0001-sldfjsdf.patch 
+ 1971  git pull origin master 
+ 1972  clear
+ 1973  cd
+ 1974  history > hist
